@@ -47,3 +47,5 @@ echo Locker created successfully
 goto End
 :End
 ```
+- Step 4. Find Your-Password-Here and replace it with the password that you want to lock the folder with. For example: ```MK21*)6ee73```
+![GitHub Logo](/images/lock-folder-via-txt-2.webp)
