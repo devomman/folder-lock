@@ -49,3 +49,17 @@ goto End
 ```
 - Step 4. Find Your-Password-Here and replace it with the password that you want to lock the folder with. For example: ```MK21*)6ee73```
 ![GitHub Logo](/images/lock-folder-via-txt-2.webp)
+- Step 5. Click File > Save As > Select All Files at the Save as type section.
+![GitHub Logo](/images/lock-folder-via-txt-3.webp)
+- Step 6. Name the file as FolderLocker.bat and click Save. 
+![GitHub Logo](/images/lock-folder-via-txt-4.webp)
+- Step 7. Double-click the FolderLocker file to generate a Locker folder.
+![GitHub Logo](/images/lock-folder-via-txt-5.webp)
+- Step 8. Drag or move all the files that you need to protect into the Locker folder.
+![GitHub Logo](/images/lock-folder-via-txt-6.webp)
+- Step 9. Click the FolderLocker file again, type Y in the command prompt window, and hit Enter to confirm that you want to lock the folder.
+![GitHub Logo](/images/lock-folder-via-txt-7.webp)
+- Step 10. Now the folder is locked and you can barely see it in its original location.
+![GitHub Logo](/images/lock-folder-via-txt-8.webp)
+- To unlock the folder, click the FolderLocker file, enter your password in the command prompt window, and hit Enter.
+![GitHub Logo](/images/lock-folder-via-txt-9.webp)
